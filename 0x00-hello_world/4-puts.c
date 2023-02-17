@@ -1,10 +1,10 @@
-#!/bin/bash
-#include<stdio.h>
-/** 
- * main - printing hellooo
- *
- * /
- int main(void){
-put ("\"Programming is like building a multilingual puzzle");
- return(0);
- }
+#include <stdio.h>
+/**
+ * main - Entry point printing hellooo
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
+}
